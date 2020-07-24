@@ -11,6 +11,7 @@ int main(){
 
 	cout << "branch MB-Story" << endl;
 	cout << "coba pull request" << endl;
+	cout << "feature baru" << endl;
 
 	return 0;
 }
